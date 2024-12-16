@@ -16,13 +16,13 @@ dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: false
-resume-url: resume/CV_Zhenshuai Yin.pdf
+# resume: true
+# resume-external: false
+# resume-url: resume/CV_Zhenshuai Yin.pdf
 
-portfolio: true
-portfolio-external: false
-portfolio-url: portfolio/portfolio_Zhenshuai Yin.pdf
+# portfolio: true
+# portfolio-external: false
+# portfolio-url: portfolio/portfolio_Zhenshuai Yin.pdf
 
 url: https://qhwqqq.github.io
 # your url: https://USERNAME.github.io
