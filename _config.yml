@@ -16,11 +16,11 @@ dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: false
 resume-url: resume/CV_Zhenshuai Yin.pdf
 
-portfolio: true
+portfolio: false
 portfolio-external: false
 portfolio-url: portfolio/portfolio_Zhenshuai Yin.pdf
 
@@ -69,7 +69,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: false
-FedMD: true
+FedMD: false
 LLM: true
 ACM: true
 # 如果想添加一个新的模块, 首先修改_includes中的header.html, 然后修改同目录下的nav.html, 然后修改_sass/pages/home-blog-projects.sass(注意, 要全部小写), 然后就是在本文件添加相应标签, 然后创建对应名称的html, 即可成功建立
