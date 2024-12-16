@@ -1,5 +1,5 @@
 # main text of home
-title: Zhenshuai Yin
+title: sia
 bio: A student at northeastern university
 
 # twitter summary info
@@ -46,8 +46,8 @@ github: yin1245
 email: yzs2003@foxmail.com
 
 authors:
-  yin1245:
-    name: Zhenshuai Yin
+  sia:
+    name: sia
     bio: A student at northeastern university
     external-image: true
     picture: https://tuchuang-yzs.oss-cn-beijing.aliyuncs.com/mypicture.jpg
